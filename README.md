@@ -1,4 +1,16 @@
-### Hi there 👋
+# Letícia Fossato :cherry_blossom:
+
+⭐️ About me
+I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
+
+📚 Currently studying
+BootCamp IronHack - Data Analyst
+
+🎓 Background
+Electrical Engineer (FEI)
+
+⚡ Fun fact:
+I don't have a middle name, so if you're here you already know my full name.
 
 <!--
 **leticiafossato/leticiafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
