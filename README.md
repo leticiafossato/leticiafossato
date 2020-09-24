@@ -4,10 +4,10 @@
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
 
 <b><h2>📚 Currently studying</h2></b>
-BootCamp IronHack - Data Analyst
+■ BootCamp IronHack - Data Analyst
 
 <b><h2>🎓 Background</h2></b>
-Electrical Engineer (FEI)
+■ Electrical Engineer (FEI)
 
 <b><h2>⚡ Fun fact:</h2></b>
 I don't have a middle name, so if you're here you already know my full name.
