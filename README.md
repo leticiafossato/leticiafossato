@@ -1,15 +1,15 @@
-# Letícia Fossato :snowflake:
+<h1>Letícia Fossato :star2:</h1>
 
-⭐️ About me
+<b><h2>⭐️ About me</h2></b>
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
 
-📚 Currently studying
+<b><h2>📚 Currently studying</h2></b>
 BootCamp IronHack - Data Analyst
 
-🎓 Background
+<b><h2>🎓 Background</h2></b>
 Electrical Engineer (FEI)
 
-⚡ Fun fact:
+<b><h2>⚡ Fun fact:</h2></b>
 I don't have a middle name, so if you're here you already know my full name.
 
 <!--
