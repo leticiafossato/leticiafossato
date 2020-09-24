@@ -1,4 +1,4 @@
-# Letícia Fossato :cherry_blossom:
+# Letícia Fossato :snowflake:
 
 ⭐️ About me
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
