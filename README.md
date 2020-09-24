@@ -1,6 +1,6 @@
-<h1>Letícia Fossato :star2:</h1>
+<h1>Letícia Fossato ⭐️</h1>
 
-<b><h2>⭐️ About me</h2></b>
+<b><h2>📌  About me</h2></b>
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
 
 <b><h2>📚 Currently studying</h2></b>
