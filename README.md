@@ -7,7 +7,7 @@ I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data A
 ❏ BootCamp IronHack - Data Analyst
 
 <b><h2>🎓 Background</h2></b>
-❏ Elenotric / Electrical Engineer (FEI)
+❏ Eletronic / Electrical Engineer (FEI)
 
 <b><h2>⚡ Fun fact:</h2></b>
 I don't have a middle name, so if you're here you already know my full name.
