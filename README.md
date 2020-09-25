@@ -1,4 +1,7 @@
 <h1>Letícia Fossato ⭐️</h1>
+<script type="text/javascript" src="https://www.linkedin.com/in/leticiafossato" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
+
 
 <b><h2>📌  About me</h2></b>
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
