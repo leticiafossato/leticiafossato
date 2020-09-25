@@ -3,7 +3,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a></p>
 <b><h2>📌  About me</h2></b>
-I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
+Recently gratuated on Eletrical Engineer and studying to become a Data Analyst.
 
 <b><h2>📚 Currently studying</h2></b>
 ❏ BootCamp IronHack - Data Analyst
