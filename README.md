@@ -1,9 +1,8 @@
 <h1>Letícia Fossato ⭐️  </h1>
-
-<b><h2>📌  About me</h2></b>
 <p><a href="https://www.linkedin.com/in/leticiafossato/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a></p>
+<b><h2>📌  About me</h2></b>
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
 
 <b><h2>📚 Currently studying</h2></b>
