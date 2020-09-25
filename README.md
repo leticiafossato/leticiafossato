@@ -1,6 +1,9 @@
 <h1>Letícia Fossato ⭐️</h1>
 
-<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://nl.linkedin.com/in/menno-van-der-graaf-13138490?trk=profile-badge'>Menno van der Graaf</a></div>
+<p>
+  <a href="https://www.linkedin.com/in/leticiafossato/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
 
 <b><h2>📌  About me</h2></b>
 I'm recently gratuated on Eletrical Engineer and I'm studying to become a Data Analyst.
