@@ -6,7 +6,7 @@
 Recently gratuated on Eletrical Engineer and studying to become a Data Analyst.
 
 <b><h2>📚 Currently studying</h2></b>
-❏ BootCamp IronHack - Data Analyst
+❏ BootCamp IronHack - Data Analyst<br>
 ❏ Master's Degree - Signal and Image processing (FEI)
 
 <b><h2>🎓 Background</h2></b>
