@@ -1,4 +1,4 @@
-<h1>Letícia Fossato ⭐️  </h1>
+<h1>Letícia Fossato <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  </h1>
 <a href="https://www.linkedin.com/in/leticiafossato/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <b><h2>📌  About me</h2></b>
