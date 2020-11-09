@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/leticiafossato/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <b><h2>📌  About me</h2></b>
-Recently gratuated on Eletrical Engineer and studying to become a Data Analyst.
+Recently gratuated on Eletrical Engineer and studying Data.
 
 <b><h2>📚 Currently studying</h2></b>
 ❏ Master's Degree - Signal and Image processing (FEI)
