@@ -5,7 +5,7 @@
 Recently gratuated on Eletrical Engineer and studying Data.
 
 <b><h2>📚 Currently studying</h2></b>
-❏ Master's Degree - Signal and Image processing (FEI)<br>
+❏ Master's Degree - Artificial Intelligence (FEI)<br>
 ❏ Estatística para Ciência de Dados e Machine Learning (IA Expert Academy) - Udemy
 
 <b><h2>🎓 Background</h2></b>
