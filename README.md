@@ -12,9 +12,6 @@ Recently gratuated on Eletrical Engineer and studying Data.
 ❏ BootCamp IronHack - Data Analyst<br>
 ❏ Eletronic / Electrical Engineer (FEI)
 
-<b><h2>⚡ Fun fact</h2></b>
-I don't have a middle name, so if you're here you already know my full name.
-
 <!--
 **leticiafossato/leticiafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
